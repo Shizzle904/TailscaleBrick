@@ -8,6 +8,14 @@
 
 ---
 
+## 📸 界面预览
+
+| 状态控制 | 节点列表与延迟测速 |
+| :---: | :---: |
+| ![状态控制](docs/preview_ctrl.png) | ![节点列表与延迟测速](docs/preview_peers.png) |
+
+---
+
 ## 核心特性
 
 - **三页签掌机原生界面**（`L1` / `R1` 切换）：
@@ -146,7 +154,7 @@ docker run --rm -v "$PWD:/work" ghcr.io/loveretro/tg5040-toolchain:latest bash /
 - **[stb_image](https://github.com/nothings/stb)** v2.34 (`src/stb_image.h`) — MIT / Public Domain (Unlicense)
 - **[SDL2 & SDL2_ttf](https://www.libsdl.org/)** — zlib License
 - **[LoveRetro/tg5040-toolchain](https://github.com/LoveRetro/tg5040-toolchain)** — `ghcr.io/loveretro/tg5040-toolchain:latest` 交叉编译工具链
-- **[Ponjen/Vibe](https://github.com/Ponjen/Vibe)** — Trimui Brick UI、平台层与启动器架构参考
+- **[Ponjen/Vibe](https://github.com/Ponjen/Vibe-A-Vibecoded-Music-Player-for-the-TrimUI-Brick)** — Trimui Brick UI、平台层与启动器架构参考
 - **[hugorosario/BrickTools](https://github.com/hugorosario/BrickTools)** — Trimui Brick LED 与系统服务共存方案参考
 
 ---

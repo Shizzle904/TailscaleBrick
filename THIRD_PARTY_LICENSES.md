@@ -44,7 +44,7 @@ Third-party binaries, certificates, libraries, toolchains, and referenced projec
 - **Usage**: Cross-compilation Docker toolchain targeting `aarch64` Linux (`TG3040` / `TG5040`).
 
 ### 7. Ponjen/Vibe
-- **Upstream**: https://github.com/Ponjen/Vibe
+- **Upstream**: https://github.com/Ponjen/Vibe-A-Vibecoded-Music-Player-for-the-TrimUI-Brick
 - **Usage**: Reference for Trimui Brick native SDL2 UI rendering, platform input/power management, and `launch.sh` / `config.json` app architecture (`src/platform.c`, `src/ui_gfx.c`).
 
 ### 8. hugorosario/BrickTools
