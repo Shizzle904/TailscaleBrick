@@ -1,0 +1,6 @@
+accept_routes=1
+accept_dns=0
+hostname=trimui-brick
+tun_mode=auto
+# login_server=https://headscale.example.com
+# auth_key=tskey-auth-...

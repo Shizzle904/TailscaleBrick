@@ -1,0 +1,8 @@
+{
+  "label": "Tailscale",
+  "label.ch.lang": "Tailscale 组网",
+  "icon": "icon.png",
+  "iconsel": "icon.png",
+  "launch": "launch.sh",
+  "description": "Tailscale VPN manager for Trimui Brick"
+}

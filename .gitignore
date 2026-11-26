@@ -1,0 +1,21 @@
+# Build outputs & binaries
+dist/
+tailscale_ui
+test_ts
+*.o
+*.log
+app.log
+build.log
+build_status.json
+
+# Large / local-only runtime assets & secrets
+pkg/bin/tailscale
+pkg/bin/tailscaled
+pkg/config.ini
+pkg/authkey.txt
+pkg/loginserver.txt
+
+# Python / IDE
+__pycache__/
+*.pyc
+.vscode/
